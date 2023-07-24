@@ -1,4 +1,4 @@
-# Mapa web del estilo Koriabo y Lenguas Caribe
+# Mapa web de la cerámica Koriabo y Lenguas Caribe
 
 **DOI para este repositório:** 10.5281/zenodo.8180394
 
