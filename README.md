@@ -1,6 +1,6 @@
 # Mapa web de la cerámica Koriabo y Lenguas Caribe
 
-**DOI para este repositório:** 10.5281/zenodo.8180394
+**DOI para este repositório:** 10.5281/zenodo.8180451
 
 Este repositorio contiene una página de web map con la ubicación de los sitios fechados con cerámica Koriabo en el norte de Sudamérica y las Antillas Menores, y la distribución total de los estilos Koriabo, Konduri y Santarém, bien como de las lenguas Caribe.
 
