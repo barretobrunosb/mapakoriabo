@@ -1,5 +1,7 @@
 # Mapa del estilo Koriabo y Lenguas Caribe
 
+**DOI de este repositório:** 10.5281/zenodo.8180394
+
 Este repositorio contiene una página de web map con la ubicación de los sitios fechados con cerámica Koriabo en el norte de Sudamérica y las Antillas Menores, y la distribución total de los estilos Koriabo, Konduri y Santarém, bien como de las lenguas Caribe.
 
 El mapa fue producido como material suplementario del artículo *Casas, cerámicas y espacialidad: La introducción del estilo Koriabo en el sur de Amapá y los cambios en el bajo Amazonas en la transición del año 1000 d.C.*, producido por Bruno Barreto, y enviado a la revista Latin American Antiquity.
